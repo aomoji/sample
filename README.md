@@ -1,4 +1,6 @@
 # sample
 
 
+hohogheo
+
 fugaufga hogehoge
